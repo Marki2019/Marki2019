@@ -3,7 +3,7 @@
 # About me
 I do programming and I play a shit ton of video games.
 
-- I am working on a Program that gives you more control over windows 10
+- I am working on a Program that gives you the ability to control system fans in Windows 10-11
 - I live in Bosnia & Herzegovina
 
 ## 🔧 Technologies & Tools
