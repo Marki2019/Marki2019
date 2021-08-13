@@ -3,9 +3,6 @@
 # About me
 I do programming and I play a shit ton of video games.
 
-- I am working on a Program that gives you the ability to control system fans in Windows 10-11
-- I live in Bosnia & Herzegovina
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
